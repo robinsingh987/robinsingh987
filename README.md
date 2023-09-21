@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [Soon]
 
-- ⚡ Fun fact **KAAM JYADA BAAT KAM**
+- ⚡ Fun fact **BAAT KAM KAAM JYADA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
