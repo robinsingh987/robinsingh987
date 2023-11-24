@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rsbusinessmail221@gmail.com**
 
-- 📄 Know about my experiences [Soon]
+- 📄 Know about my experiences [Fresher]
 
 - ⚡ Fun fact **BAAT KAM KAAM JYADA**
 
