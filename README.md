@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin Singh</h1>
-<h3 align="center">A passionate front-end web developer from India</h3>
+<h3 align="center">A passionate MERN Stack web developer from India</h3>
 <img align="right" alt="coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
 
 
